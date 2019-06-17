@@ -9,6 +9,7 @@ public class TestDemo {
 	public void fun2(){
 		System.out.println("hello,mengbrother");
 	}
+	
 	public void fun3(){
 		System.out.println("hello，world");
 	}
